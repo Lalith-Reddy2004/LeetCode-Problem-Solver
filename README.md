@@ -49,25 +49,12 @@ Unlock Leetcode's premium features without a subscription using the Leetcode Pre
 
 ![Select Folder](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/d55e46a0-510e-4090-9844-321a07e99154)
 
-## ~~Usage~~
-
-### ~~Step 4: Test the Extension~~
-
-1. ~~Go to [Leetcode](https://leetcode.com/problemset/all/).~~
-2. ~~Refresh the page.~~
-3. ~~If you see green Frequency bars, it's working.~~
-4. ~~Click on companies to see the most common questions.~~
-5. ~~Find a premium question, and refresh the page if its title is not green.~~
-6. ~~If it's green, click on it and enjoy :D~~
-
-![Extension in Action](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/e4d41e19-af43-4c3c-9476-256a5ab7e159)
-### Troubleshooting
-~~**If it's not working, feel free to write on [Issues](https://github.com/31b4/Leetcode-Premium-Bypass/issues); I'm here to help.**~~
-
 📞 Contact
+----------
+
 For any queries or suggestions, feel free to reach out:
 
-👤 Name: LALITH VARDHAN REDDY
-📧 Email: reddylalithvardhan@gmail.com
-💻 GitHub: LALITH VARDHAN REDDY
-🔗 LinkedIn: LALITH VARDHAN REDDY
+*   **👤 Name:** LALITH VARDHAN REDDY
+*   📧 **Email:** reddylalithvardhan@gmail.com
+*   💻 **GitHub:** [LALITH VARDHAN REDDY](https://github.com/Lalith-Reddy2004)
+*   🔗 **LinkedIn:** [LALITH VARDHAN REDDY](https://www.linkedin.com/in/lalithvardhan-reddy-bb0420272/)
