@@ -63,3 +63,11 @@ Unlock Leetcode's premium features without a subscription using the Leetcode Pre
 ![Extension in Action](https://github.com/31b4/Leetcode-Premium-Bypass/assets/75566095/e4d41e19-af43-4c3c-9476-256a5ab7e159)
 ### Troubleshooting
 ~~**If it's not working, feel free to write on [Issues](https://github.com/31b4/Leetcode-Premium-Bypass/issues); I'm here to help.**~~
+
+📞 Contact
+For any queries or suggestions, feel free to reach out:
+
+👤 Name: LALITH VARDHAN REDDY
+📧 Email: reddylalithvardhan@gmail.com
+💻 GitHub: LALITH VARDHAN REDDY
+🔗 LinkedIn: LALITH VARDHAN REDDY
